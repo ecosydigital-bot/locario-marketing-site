@@ -2,6 +2,12 @@
 
 Ultimo aggiornamento: 2026-09-05
 
+## 2026-11-01 - Aggiornamento prezzo Business
+
+- Piano Business aggiornato sul sito pubblico a `199 EUR/mese` oppure `1.990 EUR/anno`.
+- Equivalente annuale: `165,83 EUR/mese` (circa 17% di risparmio).
+- I consumi di telefonia AI, SMS e WhatsApp sono esclusi e fatturati separatamente.
+
 Questo file serve come memoria operativa del progetto `locario-marketing-site`. Leggerlo prima di iniziare una nuova sessione su questo repo.
 
 ## Progetto

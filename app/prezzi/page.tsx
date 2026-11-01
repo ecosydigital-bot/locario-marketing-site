@@ -65,7 +65,7 @@ const faqPrezzi: FAQItem[] = [
   {
     question: 'Esiste uno sconto per pagamento annuale?',
     answer:
-      'Sì. Scegliendo la fatturazione annuale risparmi fino al 17% rispetto al mensile. Starter passa da €29/mese a €290/anno (equivale a €24,17/mese). Professional da €69/mese a €690/anno (€57,50/mese). Business da €149/mese a €1.490/anno.',
+      'Sì. Scegliendo la fatturazione annuale risparmi fino al 17% rispetto al mensile. Starter passa da €29/mese a €290/anno (equivale a €24,17/mese). Professional da €69/mese a €690/anno (€57,50/mese). Business da €199/mese a €1.990/anno (€165,83/mese).',
   },
   {
     question: 'Cos\'è il setup iniziale da €49?',
